@@ -1,0 +1,51 @@
+h3{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+.olivia{
+  font-family: Arial;
+  font-size: 16px;
+  text-align: center;
+}
+
+.mtext{
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
+}
+
+.rectext{
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
+  color: firebrick;
+  font-weight: bold;
+}
+
+.main{
+  width: 55%;
+  padding: 25px;
+  border: 3px solid navy;
+  float: center;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: justify;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.answer{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+select{
+  font-size: 18px;
+}
